@@ -14,4 +14,4 @@ My primary skills include:
 - Python
 - MongoDB
 
-Feel free to check out my [GitHub](https://github.com/nikitashitov) repositories for examples of my work, and don't hesitate to get in touch!
+Feel free to check out my [GitHub](https://github.com/shikitos) repositories for examples of my work, and don't hesitate to get in touch!
