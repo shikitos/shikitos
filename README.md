@@ -6,12 +6,13 @@ I've been working in IT since July 2020, initially as a technical writer for a c
 
 My primary skills include 👨‍💻:
 - JavaScript
+- TypeScript
 - HTML
-- CSS
+- CSS (also CSS preprocessors)
 - Three.js
 - React.js
 - Node.js
+- MongoDB (including mongoose for Node.js)
 - Python
-- MongoDB
 
 Feel free to check out my [GitHub](https://github.com/shikitos) repositories for examples of my work, and don't hesitate to get in touch 📧!
